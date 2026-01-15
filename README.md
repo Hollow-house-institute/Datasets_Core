@@ -72,9 +72,7 @@ This repository uses the MIT License — see LICENSE
 **Hollow House Institute**  
 Structured Human Intelligence  
 
-Website: https://hollowhouseinstitute.com  
-Datasets: https://hollowhouseinstitute.com/datasets  
-Licensing: https://hollowhouseinstitute.com/licensing  
+  
 
 ────────────────────────────────────────
 Hollow House Institute
@@ -82,7 +80,6 @@ Hollow House Institute
 Contact
 Founder: Amy Pierce Bui  
 Primary: data@hollowhouse.org  
-Technical: hhidatasettechs@gmail.com
 ────────────────────────────────────────
 
 
