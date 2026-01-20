@@ -1,7 +1,12 @@
 # Datasets Core — Standardized Open Dataset Catalog and Schemas
 > Time turns behavior into infrastructure.  
 > Behavior is the most honest data there is.
+## Governance
 
+This repository is governed by **HHI_GOV_01**  
+Canonical authority: https://github.com/hollowhouseinstitute/HHI_GOV_01
+
+Dataset-level governance is defined in `DATA_GOVERNANCE.md`.
 Datasets Core is a curated, standards-first repository of dataset schemas, metadata templates, and tooling to help teams publish consistent, discoverable open datasets for machine learning, analytics, and research.
 
 🛡 Data governance and licensing definitions are inherited from  
