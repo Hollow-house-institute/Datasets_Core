@@ -1,0 +1,5 @@
+ops_id,ops_name,related_srs_datasets,benchmark_refs,notes
+OPS-001,Identity Activation,Dataset_55_ETB,ETB-340-F3,Emotional trajectory mapping
+OPS-340,Contraction Loop,Dataset_55_ETB;Dataset_60_CDIB,CDIB-403-442-339,Multi-layer integration
+OPS-403,Worth Expansion,Dataset_60_CDIB,CDIB-Core,Lawful coherence restoration
+OPS-442,Mirror Distortion,Dataset_57_CLRB,CLRB-M12,Law-governed correction
