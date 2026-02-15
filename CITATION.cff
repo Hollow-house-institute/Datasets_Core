@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "OPS Datasets — Governance-First Behavioral Data"
+message: "If you use these datasets, please cite them as below."
+type: dataset
+authors:
+  - family-names: Bui
+    given-names: Amy Pierce
+    affiliation: Hollow House Institute
+repository-code: https://github.com/hollowhouseinstitute/Datasets_Core
+abstract: >
+  Governance-first operational datasets designed for audit,
+  standards validation, and human-in-the-loop oversight.
+keywords:
+  - AI governance
+  - behavioral datasets
+  - human-in-the-loop
+  - audit datasets
+  - governance standards
+  - operational data
+license: "Proprietary"
+contact:
+  - email: data@hollowhouse.org
