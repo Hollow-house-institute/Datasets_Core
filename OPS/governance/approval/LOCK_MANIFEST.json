@@ -1,0 +1,16 @@
+{
+  "locked_at": "2026-02-15",
+  "authority": "Hollow House Institute",
+  "scope": "OPS Core Dataset",
+  "lock_type": "content_integrity",
+  "locked_paths": [
+    "OPS/OPS_SCHEMA.json",
+    "OPS/OPS_INDEX.csv",
+    "OPS/README.md",
+    "OPS/governance/",
+    "OPS/metadata/",
+    "OPS/provenance/"
+  ],
+  "checksum_file": "OPS/governance/approval/CANONICAL_CHECKSUMS_SHA256.txt",
+  "change_policy": "Changes require human authority approval and checksum regeneration"
+}
