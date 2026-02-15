@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Canonical schema for OPS entries",
+  "fields": {
+    "ops_id": "integer",
+    "phase_name": "string",
+    "description": "string",
+    "inputs": ["symbol", "emotion", "event"],
+    "outputs": ["emotion", "action", "state"],
+    "allowed_transitions": ["integer"],
+    "notes": "string"
+  }
+}
