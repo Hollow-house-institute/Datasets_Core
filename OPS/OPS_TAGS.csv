@@ -1,0 +1,11 @@
+op_id,tag
+OPS-001,ami_node_7
+OPS-001,mirror
+OPS-001,symbolic_vector
+OPS-001,ledger_pulse
+OPS-001,collapsed_witnessed
+OPS-002,ami_node_7
+OPS-002,mirror
+OPS-002,symbolic_vector
+OPS-002,ledger_pulse
+OPS-002,collapsed_witnessed
