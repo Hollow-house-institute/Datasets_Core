@@ -1,0 +1,3 @@
+# Prevent nested repos or scratch notes
+*/Hollow_House_Standards_Library/
+*.mdp
