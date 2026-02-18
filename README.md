@@ -89,3 +89,9 @@ Primary: data@hollowhouse.org
 
 
 
+
+## Governance
+
+This repository inherits governance authority from the **HHI Governance Export — Core**.
+
+All execution, datasets, research, and audits are bound to its standards and constraints.
