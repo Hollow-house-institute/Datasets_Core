@@ -110,3 +110,8 @@ Enforced terms:
 - behavioral-accumulation
 
 All terminology must remain consistent with the canonical glossary.
+
+## Enforcement Statement
+
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
+
